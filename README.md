@@ -10,4 +10,5 @@ Você irá precisar dos seguintes pacotes python:
 ```
 Requests   # Para fazer requisições HTTP
 Serial     # Para fazer comunicação serial
+Json       # Para tratamento das respostas
 ```
