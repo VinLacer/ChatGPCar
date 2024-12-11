@@ -1,7 +1,9 @@
 # ChatGPCar
 Script em python utilizado no projeto do carrinho controlado por IA, para a disciplina de Instrumentação Industrial.
 
-<img src="/carr.jpg" width="300" height="300">
+<p align="center">
+  <img src="/carr.jpg" width="400" height="500">
+</p>
 
 ## Dependencias
 Você irá precisar dos seguintes pacotes python:
